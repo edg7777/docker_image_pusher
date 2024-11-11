@@ -2,7 +2,7 @@ nginx
 redis
 rabbitmq
 minio/minio
-elasticsearch
+elasticsearch:7.17.25
 mongo
 xuxueli/xxl-job-admin
 nacos-server
