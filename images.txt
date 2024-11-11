@@ -1,10 +1,10 @@
 nginx
 redis
 rabbitmq
-minio
+minio/minio
 elasticsearch
 mongo
-xxl-job-admin
+xuxueli/xxl-job-admin
 nacos-server
 canal-server
 zookeeper
